@@ -93,7 +93,7 @@ export default function Home() {
           <ProjectCard
             title="Attendance Marking System with Raspberry Pi Zero"
             desc="Attendance marking system using Raspberry Pi Zero a Very low power module"
-            icon="/PiZero.jpeg"
+            icon="/pizero.jpeg"
           />
 
           <ProjectCard
