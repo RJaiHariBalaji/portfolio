@@ -37,7 +37,7 @@ export default function Home() {
                     animate-[fadeIn_1.5s_ease-in-out]">
 
         <h2 className="text-5xl font-extrabold">
-          Hi, I'm <span className="text-blue-400">R Jai Hari Balaji</span> 🎈
+          Hi, I'm <span className="text-blue-400">R Jai Hari Balaji</span>
         </h2>
 
         <p className="mt-4 text-lg text-gray-400 max-w-xl">
@@ -108,7 +108,7 @@ export default function Home() {
     <div className="p-10 rounded-2xl border border-gray-700 bg-gradient-to-b from-gray-900 to-black shadow-xl">
 
       <h3 className="text-2xl font-bold text-blue-400 mb-5">
-        Who I Am 👨‍🎓
+        Who I Am
       </h3>
 
       <p className="text-gray-300 leading-relaxed text-lg">
@@ -120,7 +120,7 @@ export default function Home() {
     <div className="p-10 rounded-2xl border border-gray-700 bg-gradient-to-b from-gray-900 to-black shadow-xl">
 
       <h3 className="text-2xl font-bold text-blue-400 mb-5">
-        My Approach 🧠
+        My Approach
       </h3>
 
       <p className="text-gray-300 leading-relaxed text-lg">
@@ -132,7 +132,7 @@ export default function Home() {
  {/* Career Objective Box */}
     <div className="p-8 rounded-2xl bg-[#0b1220] border border-gray-700">
       <h3 className="text-2xl font-bold text-green-400">
-        Career Objective 🎯
+        Career Objective
       </h3>
       <p className="text-gray-300 mt-4 leading-relaxed">
         I aspire to build a career in Industrial IoT and Embedded Systems, focusing on the development of real-time monitoring and automation solutions. My goal is to design intelligent embedded architectures that improve operational efficiency, reliability, and system performance. I am particularly interested in creating scalable solutions that enhance safety and enable smarter decision-making in modern industrial environments.
@@ -142,7 +142,7 @@ export default function Home() {
     {/* Internship Interest Box */}
     <div className="p-8 rounded-2xl bg-[#0b1220] border border-gray-700">
       <h3 className="text-2xl font-bold text-yellow-400">
-        Looking for Opportunities 🔍
+        Looking for Opportunities
       </h3>
       <p className="text-gray-300 mt-4 leading-relaxed">
         I am seeking opportunities in IoT and Embedded Systems to develop real-time automation and monitoring solutions using Raspberry Pi, embedded platforms, and sensor integration. My interests include Industrial IoT, VLSI Design and Chip Manufacturing, PCB Designing for scalable embedded architectures. I am eager to contribute to building reliable, intelligent, and practical engineering solutions.
@@ -174,20 +174,20 @@ export default function Home() {
 
     {/* Card 1 */}
     <SkillBox
-      title="Programming 💻"
+      title="Programming"
       skills={["C++", "Python", "Embedded C" , "MicroPython", "VHDL"  ]}
     />
 
     {/* Card 2 */}
     <SkillBox
-      title="Tools 🛠️"
+      title="Tools"
       skills={["Arduino IDE", "Raspberry Pi os", "AWS", "Blynk IoT platform", "Proteus 8 Professional","Thinkspeak IoT platform", "Fusion360","Ubuntu","WSL","Xilinx Vivado","Cadence Virtuoso", "Altium"]}
     />
 
  
     {/* Card 3 */}
     <SkillBox
-      title="Core Competencies ⭐"
+      title="Core Competencies "
       skills={["Leadership","Effective Communication", "Team Collaboration", "Problem Solving", "Time Management", "Adaptability"]}
     />
   
@@ -196,7 +196,7 @@ export default function Home() {
 
   {/* Title */}
   <h3 className="text-xl font-bold text-purple-400 mb-4">
-    Learning Journey 🚀
+    Learning Journey 
   </h3>
 
   {/* Description */}
@@ -631,7 +631,7 @@ export default function Home() {
 
       {/* Follow Me */}
       <div className="mt-10 border-t border-gray-700 pt-7">
-        <p className="text-gray-400 mb-4">Let’s Build Intelligent Systems Together ⚔️</p>
+        <p className="text-gray-400 mb-4">Let’s Build Intelligent Systems Together </p>
 
       
       </div>
@@ -846,7 +846,7 @@ function ProjectCard({
                        text-blue-400 font-semibold 
                        hover:bg-blue-600 hover:text-white transition"
           >
-            💻 View Code
+             View Code
           </a>
         )}
       </div>
